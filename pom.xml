@@ -5,7 +5,7 @@
 
   <groupId>io.github.jvoice-project</groupId>
   <artifactId>silero-vad4j</artifactId>
-  <version>6.2.3.0-SNAPSHOT</version>
+  <version>6.2.3.0</version>
   <name>silero-vad4j</name>
   <description>A plain Java inference library for Silero VAD</description>
   <url>https://github.com/jvoice-project/silero-vad4j</url>
@@ -35,7 +35,7 @@
   <scm>
     <connection>scm:git:git://github.com/jvoice-project/silero-vad4j.git</connection>
     <developerConnection>scm:git:git://github.com/jvoice-project/silero-vad4j.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v6.2.3.0</tag>
     <url>https://github.com/jvoice-project/silero-vad4j</url>
   </scm>
 
